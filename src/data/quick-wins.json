@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "title": "Max out your HSA",
+    "whoFor": "Anyone with a high-deductible health plan, employed or self-employed",
+    "description": "Every dollar you put in lowers your taxable income, grows tax-free, and comes out tax-free for medical costs — the only \"triple tax-free\" account there is.",
+    "impact": "Up to ~$1,000–$2,000/year for a household maxing out $4,300–$8,550"
+  },
+  {
+    "rank": 2,
+    "title": "Check the new 2025 tips or overtime deduction",
+    "whoFor": "Tipped workers (servers, bartenders, drivers, salon staff) and hourly employees earning overtime",
+    "description": "Brand-new for 2025 — lets you deduct up to $25,000 of tips and/or up to $12,500–$25,000 of overtime pay, on top of everything else.",
+    "impact": "Could be worth $1,000–$6,000+ depending on your tip/overtime income"
+  },
+  {
+    "rank": 3,
+    "title": "Bunch your charitable giving",
+    "whoFor": "Anyone who donates to charity and is close to (but under) the standard deduction",
+    "description": "Give two years' worth every other year — often through a Donor-Advised Fund — so you clear the standard-deduction threshold and actually get a tax benefit from giving.",
+    "impact": "Can turn $0 of tax benefit into $1,000–$3,000+ in a bunched year"
+  },
+  {
+    "rank": 4,
+    "title": "Harvest investment losses before December 31",
+    "whoFor": "Any investor with stocks, funds, or crypto that have lost value",
+    "description": "Selling a losing investment on purpose lets you offset gains elsewhere — and up to $3,000 of regular income — free money you're otherwise leaving on the table.",
+    "impact": "Worth 22–37 cents in tax savings per dollar of loss you realize"
+  },
+  {
+    "rank": 5,
+    "title": "Confirm every dependent's Social Security number is on file",
+    "whoFor": "Parents and guardians of children under 17",
+    "description": "A missing or late SSN forfeits the entire Child Tax Credit — a paperwork fix, not a strategy, but a full $2,200 per child if missed.",
+    "impact": "$2,200 per qualifying child"
+  },
+  {
+    "rank": 6,
+    "title": "Check the Earned Income Credit, even if you assume you don't qualify",
+    "whoFor": "Part-time workers, gig workers, and the self-employed with modest income",
+    "description": "One of the most overlooked credits among non-traditional earners — many assume gig/freelance income doesn't count, but it does.",
+    "impact": "Up to $649 with no children, $4,328 with one, $7,152 with two, $8,046 with three or more"
+  },
+  {
+    "rank": 7,
+    "title": "Use a Qualified Charitable Distribution if you're 70½ or older",
+    "whoFor": "Retirees with a traditional IRA who also give to charity",
+    "description": "Send money straight from your IRA to charity instead of taking a taxable withdrawal — it satisfies your required withdrawal without adding a dollar of taxable income.",
+    "impact": "Can shelter thousands of dollars of otherwise-taxable IRA withdrawals per year"
+  },
+  {
+    "rank": 8,
+    "title": "Consider an S-corp election once profit is substantial",
+    "whoFor": "Freelancers and small-business owners with consistent, healthy profit",
+    "description": "Splitting income into a reasonable salary plus distributions can reduce the extra 15.3% self-employment tax on part of your profit — though it adds payroll/compliance costs.",
+    "impact": "Can save several thousand dollars a year once profit is high enough"
+  },
+  {
+    "rank": 9,
+    "title": "Track mileage and home-office expenses from day one",
+    "whoFor": "Gig/delivery drivers, freelancers, and anyone working from home",
+    "description": "Usually the single biggest deduction for these groups, and the easiest one to under-claim if you don't track it from the start.",
+    "impact": "Often $2,000–$5,000+ a year for active drivers or home-based freelancers"
+  },
+  {
+    "rank": 10,
+    "title": "Ask about a state pass-through entity tax election",
+    "whoFor": "Business owners with an S-corp or partnership in a state that allows it",
+    "description": "A state-level election lets your business deduct state tax at the entity level, sidestepping the $40,000 individual cap on state and local tax deductions.",
+    "impact": "Can be worth thousands for business owners in higher-tax states above the cap"
+  }
+]
