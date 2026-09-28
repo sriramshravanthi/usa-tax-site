@@ -60,7 +60,7 @@ export function TaxDeadlineCountdown() {
         })}
       </p>
 
-      <div className="mt-6 grid grid-cols-4 gap-3 text-center">
+      <div className="mt-6 grid grid-cols-2 gap-3 text-center sm:grid-cols-4">
         {[
           { label: "Days", value: days },
           { label: "Hrs", value: hours },
