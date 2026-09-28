@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Mail, MessageSquare, Phone, type LucideIcon } from "lucide-react";
 
 import { PageIntro } from "@/components/site/page-intro";
-import { ContactForm } from "@/components/site/contact-form";
+import { ContactPlanForm } from "@/components/site/contact-plan-form";
 import { Reveal, RevealGroup, RevealItem } from "@/components/site/reveal";
 import channels from "@/data/contact-channels.json";
 
@@ -13,13 +13,7 @@ export const metadata: Metadata = {
 
 const icons: Record<string, LucideIcon> = { Phone, Mail, MessageSquare };
 
-export default async function ContactPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ plan?: string }>;
-}) {
-  const { plan } = await searchParams;
-
+export default function ContactPage() {
   return (
     <>
       <PageIntro
@@ -58,7 +52,7 @@ export default async function ContactPage({
           </div>
 
           <Reveal delay={0.1}>
-            <ContactForm plan={plan} />
+            <ContactPlanForm />
           </Reveal>
         </div>
       </section>
