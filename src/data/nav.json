@@ -1,8 +1,7 @@
 [
   { "label": "Services", "href": "/services" },
   { "label": "Pricing", "href": "/pricing" },
-  { "label": "Tools", "href": "/tools" },
   { "label": "Reviews", "href": "/#reviews" },
-  { "label": "Refund Estimator", "href": "/tools#tools" },
+  { "label": "Refund Estimator", "href": "/tools" },
   { "label": "FAQ", "href": "/faq" }
 ]
