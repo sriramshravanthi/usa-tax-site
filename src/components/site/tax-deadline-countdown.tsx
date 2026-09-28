@@ -1,22 +1,9 @@
 "use client";
 
-import { useSyncExternalStore } from "react";
+import { useEffect, useState } from "react";
 import { CalendarClock } from "lucide-react";
 
 import { getUpcomingDeadlines } from "@/lib/tax-deadlines";
-
-function subscribe(callback: () => void) {
-  const id = setInterval(callback, 1000);
-  return () => clearInterval(id);
-}
-
-function getSnapshot() {
-  return Date.now();
-}
-
-function getServerSnapshot() {
-  return 0;
-}
 
 function diff(target: Date, now: Date) {
   const ms = Math.max(0, target.getTime() - now.getTime());
@@ -29,9 +16,19 @@ function diff(target: Date, now: Date) {
 }
 
 export function TaxDeadlineCountdown() {
-  const nowMs = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
+  const [now, setNow] = useState<Date | null>(null);
 
-  if (nowMs === 0) {
+  useEffect(() => {
+    const tick = () => setNow(new Date());
+    const startTimeout = setTimeout(tick, 0);
+    const id = setInterval(tick, 1000);
+    return () => {
+      clearTimeout(startTimeout);
+      clearInterval(id);
+    };
+  }, []);
+
+  if (!now) {
     return (
       <div className="rounded-3xl border border-ink/10 bg-paper p-8">
         <h2 className="font-display text-2xl font-semibold text-ink">
@@ -41,7 +38,6 @@ export function TaxDeadlineCountdown() {
     );
   }
 
-  const now = new Date(nowMs);
   const deadlines = getUpcomingDeadlines(now);
   const next = deadlines[0];
   const upcoming = deadlines.slice(1, 4);
