@@ -5,7 +5,6 @@ const basePath = isGithubPages ? "/usa-tax-site" : "";
 
 const nextConfig: NextConfig = {
   output: "export",
-  trailingSlash: true,
   images: { unoptimized: true },
   basePath,
   assetPrefix: basePath,
