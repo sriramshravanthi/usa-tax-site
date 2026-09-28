@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Renata Kwan, CPA",
+    "specialty": "Individual & multi-state returns",
+    "location": "Austin, TX · Virtual available",
+    "rating": 4.9,
+    "reviews": 312
+  },
+  {
+    "name": "Marcus Ibe, EA",
+    "specialty": "Self-employed & freelance",
+    "location": "Columbus, OH · Virtual available",
+    "rating": 4.8,
+    "reviews": 201
+  },
+  {
+    "name": "Sofia Delgado, CPA",
+    "specialty": "Small business & Schedule C",
+    "location": "Newark, NJ · In-person & virtual",
+    "rating": 5.0,
+    "reviews": 156
+  }
+]

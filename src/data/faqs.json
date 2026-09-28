@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What documents do I need to get started?",
+    "answer": "Usually your W-2s and/or 1099s, last year's return (if you have it), Social Security numbers for you and any dependents, and records of any deductions you plan to claim. Your preparer will send a specific checklist once you start."
+  },
+  {
+    "question": "How long does filing actually take?",
+    "answer": "Most simple returns are reviewed and ready to e-file within 1–2 business days after you upload your documents. More complex returns (self-employment, multiple states) can take longer."
+  },
+  {
+    "question": "What if I get a letter from the IRS later?",
+    "answer": "Standard and Self-Employed plans include a year of audit response support at no extra cost — we'll help you understand the letter and respond correctly."
+  },
+  {
+    "question": "Can you help if I'm self-employed or a freelancer?",
+    "answer": "Yes — Schedule C income, quarterly estimated payments, home office and mileage deductions are all part of the Self-Employed plan."
+  },
+  {
+    "question": "Do you file state returns too?",
+    "answer": "Yes, one state return is included in every plan. Additional states can be added for a flat fee, shown before you confirm anything."
+  },
+  {
+    "question": "Is my information secure?",
+    "answer": "All documents and data are transmitted and stored with bank-level 256-bit encryption, and only your assigned preparer can access your return."
+  }
+]

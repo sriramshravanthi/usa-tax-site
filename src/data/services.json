@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "individual-filing",
+    "icon": "FileText",
+    "title": "Individual Filing",
+    "description": "W-2s, 1099s, multi-state returns — filed accurately and reviewed by a real preparer before it's ever submitted.",
+    "href": "/services#individual-filing",
+    "details": [
+      "W-2, 1099-INT/DIV/NEC, and Social Security income",
+      "Federal return plus one state included",
+      "Standard or itemized deductions, whichever nets you more",
+      "Reviewed by a licensed CPA or EA before e-filing",
+      "E-file confirmation the same day it's accepted"
+    ]
+  },
+  {
+    "slug": "self-employed",
+    "icon": "Briefcase",
+    "title": "Self-Employed & Freelance",
+    "description": "Quarterly estimates, Schedule C, home-office and mileage deductions — built for 1099 and gig income.",
+    "href": "/services#self-employed",
+    "details": [
+      "Schedule C business income and expense categorization",
+      "Quarterly estimated tax calculations, so you're not blindsided in April",
+      "Home office and mileage deduction guidance",
+      "Guidance on retirement contributions for the self-employed (SEP IRA, Solo 401k)",
+      "One planning call each year to sanity-check your withholding"
+    ]
+  },
+  {
+    "slug": "deductions-credits",
+    "icon": "PiggyBank",
+    "title": "Deductions & Credits",
+    "description": "We dig through every credit you qualify for — EITC, Child Tax Credit, education, energy — so nothing's left on the table.",
+    "href": "/services#deductions-credits",
+    "details": [
+      "Earned Income Tax Credit (EITC) and Child Tax Credit review",
+      "Education credits — American Opportunity & Lifetime Learning",
+      "Residential energy credit eligibility check",
+      "Itemized vs. standard deduction comparison, automatically",
+      "A plain-English summary of what you claimed and why"
+    ]
+  },
+  {
+    "slug": "audit-support",
+    "icon": "ShieldCheck",
+    "title": "Audit Support",
+    "description": "If the IRS sends a letter, you're not alone. Every return comes with a year of audit response support.",
+    "href": "/services#audit-support",
+    "details": [
+      "A licensed preparer helps you read and understand any IRS notice",
+      "Guided response drafting for routine correspondence audits",
+      "Direct line to the person who actually prepared your return",
+      "Included free for one year on Standard and Self-Employed plans",
+      "No extra charge for honest mistakes we're responsible for"
+    ]
+  },
+  {
+    "slug": "tax-planning",
+    "icon": "TrendingUp",
+    "title": "Tax Planning",
+    "description": "Withholding checkups, life-change guidance, and year-round strategy — not just a once-a-year scramble.",
+    "href": "/services#tax-planning",
+    "details": [
+      "Mid-year withholding checkup so you're not surprised in April",
+      "Guidance after marriage, a new child, a home purchase, or a job change",
+      "Multi-year strategy for equity compensation or major income changes",
+      "Year-round email access to your preparer, not just tax season",
+      "Available as a standalone service or bundled with filing"
+    ]
+  },
+  {
+    "slug": "find-a-tax-pro",
+    "icon": "Users",
+    "title": "Find a Tax Pro",
+    "description": "Match with a licensed CPA or Enrolled Agent near you, or work with one virtually from anywhere in the U.S.",
+    "href": "/find-a-pro",
+    "details": [
+      "Search by ZIP code for preparers near you",
+      "Every preparer is a licensed CPA or IRS Enrolled Agent",
+      "Virtual consultations available nationwide",
+      "See specialties, ratings, and reviews before you book",
+      "No obligation — the first consultation is free"
+    ]
+  }
+]

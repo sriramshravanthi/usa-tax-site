@@ -1,0 +1,6 @@
+[
+  { "value": 52000, "suffix": "+", "label": "Returns filed nationwide" },
+  { "value": 98, "suffix": "%", "label": "Client satisfaction rate" },
+  { "value": 2300, "prefix": "$", "suffix": " avg.", "label": "Additional refund found" },
+  { "value": 18, "suffix": " min", "label": "Average response time" }
+]

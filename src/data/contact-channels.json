@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "Phone",
+    "title": "Call us",
+    "detail": "(800) 555-0142",
+    "note": "Mon–Fri, 8am–7pm ET"
+  },
+  {
+    "icon": "Mail",
+    "title": "Email",
+    "detail": "hello@amberlytax.com",
+    "note": "Usually within a few hours"
+  },
+  {
+    "icon": "MessageSquare",
+    "title": "Live chat",
+    "detail": "Available in your client portal",
+    "note": "Mon–Sat, 9am–6pm ET"
+  }
+]

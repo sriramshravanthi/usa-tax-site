@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "MessageCircleHeart",
+    "title": "Plain-English, always",
+    "description": "No jargon dumps. If a term matters, we explain it the first time we use it."
+  },
+  {
+    "icon": "BadgeCheck",
+    "title": "Licensed, accountable humans",
+    "description": "Every return is prepared and reviewed by a CPA or Enrolled Agent who signs their name to it."
+  },
+  {
+    "icon": "Clock4",
+    "title": "Year-round, not just April",
+    "description": "Questions in August get answered in August. Tax planning doesn't stop when the deadline passes."
+  },
+  {
+    "icon": "HandCoins",
+    "title": "Pricing you see upfront",
+    "description": "You know the cost before you commit — not after your return is already halfway done."
+  }
+]

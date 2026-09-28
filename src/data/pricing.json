@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Simple",
+    "price": 89,
+    "tagline": "W-2 income, standard deduction",
+    "featured": false,
+    "features": [
+      "One state + federal return",
+      "W-2 and 1099-INT/DIV income",
+      "Standard deduction filing",
+      "E-file with IRS confirmation",
+      "Email support"
+    ]
+  },
+  {
+    "name": "Standard",
+    "price": 179,
+    "tagline": "Itemized deductions, dependents, credits",
+    "featured": true,
+    "features": [
+      "Everything in Simple",
+      "Itemized deductions",
+      "Child Tax Credit & EITC review",
+      "Education & energy credits",
+      "1 year of audit support",
+      "Priority phone + email support"
+    ]
+  },
+  {
+    "name": "Self-Employed",
+    "price": 329,
+    "tagline": "1099 income, Schedule C, freelancers",
+    "featured": false,
+    "features": [
+      "Everything in Standard",
+      "Schedule C business income",
+      "Quarterly estimated tax setup",
+      "Home office & mileage deductions",
+      "Year-round tax planning call",
+      "Dedicated preparer"
+    ]
+  }
+]

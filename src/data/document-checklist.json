@@ -1,0 +1,48 @@
+[
+  {
+    "category": "Personal info",
+    "items": [
+      "Social Security or ITIN numbers for you, your spouse, and any dependents",
+      "Government-issued photo ID",
+      "Bank account and routing number for direct deposit"
+    ]
+  },
+  {
+    "category": "Income",
+    "items": [
+      "W-2s from every employer",
+      "1099-NEC or 1099-MISC for freelance or contract work",
+      "1099-INT / 1099-DIV for interest and dividends",
+      "1099-K for payment app or online marketplace income",
+      "1099-G for unemployment compensation",
+      "SSA-1099 for Social Security benefits"
+    ]
+  },
+  {
+    "category": "Deductions & credits",
+    "items": [
+      "Mortgage interest statement (Form 1098)",
+      "Property tax records",
+      "Student loan interest statement (Form 1098-E)",
+      "Childcare provider's name, address, and Tax ID",
+      "Receipts for charitable donations",
+      "Records of out-of-pocket medical expenses"
+    ]
+  },
+  {
+    "category": "Self-employed",
+    "items": [
+      "Total business income and expense records for the year",
+      "Home office square footage, if claiming that deduction",
+      "Mileage log for business driving",
+      "Estimated tax payments already made this year"
+    ]
+  },
+  {
+    "category": "Last year",
+    "items": [
+      "A copy of last year's tax return",
+      "Any IRS or state notices you received since then"
+    ]
+  }
+]

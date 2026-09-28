@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "ShieldCheck",
+    "title": "Max Refund Guarantee",
+    "description": "If another preparer finds you a larger refund using the same documents, we'll refund your preparation fee."
+  },
+  {
+    "icon": "BadgeCheck",
+    "title": "Accuracy Guarantee",
+    "description": "If a preparer error costs you IRS penalties or interest, we'll cover them — no questions asked."
+  },
+  {
+    "icon": "LifeBuoy",
+    "title": "Audit Support Guarantee",
+    "description": "Get an IRS letter within a year of filing? We'll help you understand and respond to it at no extra charge."
+  },
+  {
+    "icon": "Lock",
+    "title": "Data Security Guarantee",
+    "description": "Every document is encrypted in transit and at rest. Only your assigned preparer can ever open your file."
+  }
+]

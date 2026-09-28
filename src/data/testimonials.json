@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Marisol Trent",
+    "role": "Freelance designer, Austin TX",
+    "quote": "First time filing didn't feel like guesswork. My preparer caught a home-office deduction I didn't even know existed.",
+    "rating": 5
+  },
+  {
+    "name": "Devon Okafor",
+    "role": "Small business owner, Columbus OH",
+    "quote": "Quarterly estimates used to stress me out every single time. Now it's a fifteen-minute check-in and I move on with my day.",
+    "rating": 5
+  },
+  {
+    "name": "Priya Raman",
+    "role": "Nurse practitioner, Newark NJ",
+    "quote": "Got a letter from the IRS two months after filing. One call and it was handled — no extra charge, no panic.",
+    "rating": 5
+  }
+]
